@@ -19,8 +19,7 @@ From windows console:
 C:\path_to_main> python mainw.pyw
 
 [comment]: ![Screenshot](file://media/pyHopfiledNeuralNetwork.png)
-![Screenshot](media/pyHopfiledNeuralNetwork.png)
-
+![Screenshot](media/pyHopfiledNeuralNetwork.PNG)
 
 ## Requirements
 
