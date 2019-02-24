@@ -5,7 +5,7 @@
 This software demostrates convergence to stable state of recurrent network such is Hopfield Neural Network.
 It starts from random initial state and in few steps converges to some stable state. 
 
-Network has 100 neurons in the layer which are graphically represented by matrix of 10x10 fields that can be fieled or empty.
+Network is developed from the scratch. Network has 100 neurons in the layer which are graphically represented by matrix of 10x10 fields that can be fieled or empty.
 
 Initial state can be drown, redrown, or changed manually using mouse pointer and left mouse button.
 
